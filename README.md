@@ -1,6 +1,7 @@
 ### Hi there 👋
 <hr>
-I'm a sofware developer and I'm passionate about learning and improving my problem solving skills
+
+I'm a sofware developer, passionate about learning and improving.
 <!--
 **callmeog01/callmeog01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
