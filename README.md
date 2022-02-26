@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<hr>
+I'm a sofware developer and I'm passionate about learning and improving my problem solving skills
 <!--
 **callmeog01/callmeog01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmeog01&theme=dark&show_icons=true)
 
