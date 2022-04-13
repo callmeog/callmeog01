@@ -1,7 +1,12 @@
-### Hi there 👋
-<hr>
+## Hi there 👋
 
-I'm a sofware developer, passionate about learning and improving.
+I'm a sofware developer, passionate,curious and always learning and thinking ways to make things better.
+
+### 🌱 I’m currently learning
+- HTML
+- CSS
+- JAVASCRIPT
+
 <!--
 **callmeog01/callmeog01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
