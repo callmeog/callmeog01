@@ -3,8 +3,6 @@
 I'm a sofware developer, passionate,curious and always learning and thinking ways to make things better.
 
 ### 🌱 I’m currently learning
-- HTML
-- CSS
 - JAVASCRIPT
 
 <!--
