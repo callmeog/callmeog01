@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a sofware developer, passionate,curious and always learning and thinking ways to make things better.
+I'm a sofware developer, passionate,curious and always learning and thinking ways to keep the web safe.
 
 ### 🌱 I’m currently learning
 - JAVASCRIPT
